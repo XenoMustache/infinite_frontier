@@ -1,0 +1,1 @@
+part_type = pointer_null;
