@@ -1,1 +1,0 @@
-//if (do_hover) draw_text(mouse_x + 10, mouse_y, hover_text);

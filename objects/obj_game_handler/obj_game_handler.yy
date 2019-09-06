@@ -2,7 +2,7 @@
     "id": "595924f1-a251-4916-b25d-cd6213b432a1",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_registry",
+    "name": "obj_game_handler",
     "eventList": [
         {
             "id": "9adafc37-e7f6-4505-a0ec-c9ab7a70d424",
@@ -42,20 +42,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": [
-        {
-            "id": "ceef79be-a6c8-4d55-89af-741cea31c47b",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": true,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "registry_type",
-            "varType": 1
-        }
+        
     ],
     "solid": false,
     "spriteId": "00000000-0000-0000-0000-000000000000",
